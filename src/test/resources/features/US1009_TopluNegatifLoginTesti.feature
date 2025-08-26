@@ -10,7 +10,7 @@ Feature: US1009 kullanici liste olarak verilen bilgilerle giris yapamaz
     And kodlari 1 saniye bekletir
     And signIn butonuna basar
     Then sisteme giris yapilamadigini test eder
-    And sayfayi kapatir.
+
 
 
     Examples:

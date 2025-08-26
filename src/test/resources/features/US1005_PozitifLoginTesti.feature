@@ -1,3 +1,4 @@
+@paralel2
 Feature: US1005 Kullanici gecerli bilgilerle sisteme giris yapar
 
 

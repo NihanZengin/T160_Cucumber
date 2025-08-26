@@ -8,7 +8,7 @@ Feature: US1008 Kullanici toplu olarak verilen listedeki urunleri aratir
     #Ve arama kutusuna aranacakKelimeler yazmiyor da asagidaki exapmles kismindan getiriyor.
     Then arama sonucunda urun bulunabildigini test eder
     And kodlari 1 saniye bekletir
-    And sayfayi kapatir.
+
 
     Examples:
     | aranacakKelimeler|

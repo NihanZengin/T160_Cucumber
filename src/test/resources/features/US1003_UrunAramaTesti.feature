@@ -8,4 +8,3 @@ Feature: US1003 kullanici aradigi kelime icin uygun sonuc bulur
     And arama sonucunda urun bulunabildigini test eder
     Then ilk urunu tiklar
     And acilan sayfadaki urun isminin case sensitive olmadan phone icerdigini test eder
-    And sayfayi kapatir.
